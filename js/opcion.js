@@ -1,1 +1,1 @@
-condole.log("Hola mundo")
+condole.log("Hola mundo");
